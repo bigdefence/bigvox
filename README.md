@@ -1,19 +1,3 @@
----
-license: apache-2.0
-language:
-- ko
-base_model:
-- meta-llama/Llama-3.2-1B-Instruct
-tags:
-- speech-to-text
-- korean
-- llama
-- audio
-- voice
-- bigdefence
-pipeline_tag: audio-text-to-text
----
-
 ## 🎧 Bigvox
 
 **Bigvox**은 한국어 음성 인식에 특화된 고성능, 저지연 음성 언어 멀티모달 모델입니다. [LLaMA-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) 기반으로 구축되었습니다. 🚀
