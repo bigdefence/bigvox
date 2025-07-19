@@ -80,10 +80,10 @@ git clone https://huggingface.co/bigdefence/bigvox
 
 ### 🔄 로컬 추론
 
-**Llama BigDefence Korean ALM**으로 추론을 수행하려면 다음 단계를 따라 모델을 설정하고 로컬에서 실행하세요. 📡
+**Bigvox**으로 추론을 수행하려면 다음 단계를 따라 모델을 설정하고 로컬에서 실행하세요. 📡
 
 1. **모델 준비**:
-   - [HuggingFace](https://huggingface.co/bigdefence/llama-bigdefence-ko-ALM)에서 **Llama BigDefence Korean ALM** 다운로드 📦
+   - [HuggingFace](https://huggingface.co/bigdefence/bigvox)에서 **Bigvox** 다운로드 📦
    - [HuggingFace](https://huggingface.co/openai/whisper-large-v3)에서 **Whisper-large-v3** 음성 인코더를 다운로드하여 `./models/speech_encoder/` 디렉토리에 배치 🎤
 
 2. **추론 실행**:
